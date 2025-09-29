@@ -52,11 +52,15 @@ composer pact:test:producer
 ```
 
 ## About The Engineering Coach
+
 The Engineering Coach is a YouTube channel dedicated to helping software engineers and engineering managers improve their skills and craft. We provide practical advice and tutorials on topics that matter in the real world of software development.
 
 ## Let's Connect
+
 For more software engineering tutorials and coaching, subscribe to The Engineering Coach on YouTube. You can also connect with me on Bluesky or Mastodon.
 
   - YouTube: [https://www.youtube.com/c/TheEngineeringCoach](https://www.youtube.com/c/TheEngineeringCoac)
   - Mastodon: [https://mastodon.social/@braddle](https://mastodon.social/@braddle)
   - Bluesky: [https://bsky.app/profile/braddle1.bsky.social](https://bsky.app/profile/braddle1.bsky.social)
+  - LinkedIn: [https://www.linkedin.com/in/mark-bradley-engineering-coach/](https://www.linkedin.com/in/mark-bradley-engineering-coach/)
+ 
